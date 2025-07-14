@@ -8,7 +8,7 @@ const Plan = () => {
             <p className='text-slate-500 max-w-lg mx-auto'> Start for free and scale up as you grow. Find the perfect plan for your content creation needs</p>
         </div>
         <div className='mt-14 max-sm:max-8'>
-            <PricingTable/>
+            <PricingTable/> 
         </div>
     </div>
   )
