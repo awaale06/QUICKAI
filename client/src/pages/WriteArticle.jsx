@@ -5,5 +5,5 @@ const WriteArticle = () => {
     <div>WriteArticle</div>
   )
 }
-
+ 
 export default WriteArticle
